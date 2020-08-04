@@ -23,7 +23,7 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-💗💗💗💗💗💗💗💗💗💗
+💗💗💗💗💗💗
 Made With 💗 By 
 * [CyberBoyAyush](telegram.me/cyberboyayush)
-💗💗💗💗💗💗💗💗💗💗
+💗💗💗💗💗💗
