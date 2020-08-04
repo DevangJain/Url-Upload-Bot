@@ -1,8 +1,6 @@
 ## URL Uploader Bot
 ---
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
-
 **My Features**:
 
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
@@ -13,7 +11,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XHackerzkali/TG-URL-Uploader)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/Url-Upload-Bot)
 
 #### The Hard Way
 
