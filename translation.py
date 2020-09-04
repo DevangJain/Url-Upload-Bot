@@ -6,11 +6,11 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Made By @CyberBoyAyush 😎
+Made By @AllrounderMentor 🇮🇳
 Made With 💗 In 🇮🇳"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "<b> 😎😎 </b>  /help for Details"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -19,8 +19,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2.0GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Thank : @CyberBoyAyush 😎 For This Awsome Bot"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n Thank : @CyberBoyAyush 😎 \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Thank : @AllrounderMentor 😎 For This Awsome Bot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n Thank : @DeVAJeBotDev 😎 \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -35,8 +35,8 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free 
-Expires on: Never Thank @CyberBoyAyush 😎"""
-    HELP_USER = """Hai am URL Uploader bot..
+Expires unltil my death 😎"""
+    HELP_USER = """🕹️🕹️..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -46,7 +46,7 @@ Expires on: Never Thank @CyberBoyAyush 😎"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Made By @CyberBoyAyush 😎
+Made By @DeVAJeBotDev 😎
 --------
 Send /me to know current plan details
 
